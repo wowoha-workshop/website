@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WoWoHa 2020 - Workflow Summer Webinar Series 2020</title>
+    <link>https://wowoha.org/</link>
+    <description>Recent content on WoWoHa 2020 - Workflow Summer Webinar Series 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://wowoha.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jane Doe&#39;s Presentation Title</title>
+      <link>https://wowoha.org/talks/janedoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/janedoe/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://wowoha.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/contact/</guid>
+      <description>Please use this form to contact us.
+  </description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://wowoha.org/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/intro/</guid>
+      <description>The WoWoHa Summer Webinar Series is intended to bring together people in the larger High Performance Computing (HPC) community who are developing and using workflow technology for simulations, experiment analysis, and convergent workflows leveraging machine learning and data analytics.
+This site is currently under construction&amp;hellip;stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
