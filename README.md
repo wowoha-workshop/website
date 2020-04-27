@@ -2,7 +2,7 @@
 
 This public repository contains the website files published through Github Pages.
 
-It is accessible at [https://wowoha-workshop.github.io/website](https://github.com/wowoha-workshop/website) or through the custom domain [https://wowoha.org](https://wowoha.org).
+It is accessible at [https://wowoha-workshop.github.io/website](https://wowoha-workshop.github.io/website) or through the custom domain [https://wowoha.org](https://wowoha.org).
 
 
 This website is generated with the static site generator [Hugo](https://gohugo.io). 
