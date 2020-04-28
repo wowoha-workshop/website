@@ -759,7 +759,8 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-image: url('../img/cover.jpg');
+  /*background-image: url('../img/cover.jpg');*/
+  background-image: url('../img/WoWoHa_nodate.jpg');
   background-blend-mode: overlay;
   background-color: #2b2b2b;
   background-repeat: no-repeat;
