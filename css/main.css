@@ -759,12 +759,19 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  /*background-image: url('../img/cover.jpg');*/
+    /*
   background-image: url('../img/WoWoHa_nodate.jpg');
+  background-blend-mode: normal;
+  background-color: #2b2b2b;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% auto;
+  */
+  background-image: url('../img/cover.jpg');
   background-blend-mode: overlay;
   background-color: #2b2b2b;
   background-repeat: no-repeat;
-  /*background-position: center bottom;*/
+  background-position: center bottom;
   background-position: center top;
   background-size: 100% auto;
 }
