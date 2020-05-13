@@ -10,13 +10,35 @@
     
     
     <item>
-      <title>Presentations Schedule Coming Soon!</title>
-      <link>https://wowoha.org/talks/janedoe/</link>
+      <title>Coming Soon</title>
+      <link>https://wowoha.org/talks/0605/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wowoha.org/talks/janedoe/</guid>
+      <guid>https://wowoha.org/talks/0605/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://wowoha.org/talks/talk_0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_0/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://wowoha.org/talks/talk_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
     </item>
     
   </channel>
