@@ -404,8 +404,8 @@ nav {
   top: 0;
   left: 0;
   display: block;
-  width: 180px;
-  height: 180px;
+  width: 120px;
+  height: 120px;
 }
 .speech-title {
   padding-top: 10px;
@@ -449,7 +449,7 @@ nav {
 }
 .schedule-tbl .speaker-photo {
   position: relative;
-  width: 150px;
+  width: 90px;
   height: 80px;
   float: left;
   margin-right: 20px;
