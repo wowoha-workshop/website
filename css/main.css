@@ -449,7 +449,7 @@ nav {
 }
 .schedule-tbl .speaker-photo {
   position: relative;
-  width: 80px;
+  width: 150px;
   height: 80px;
   float: left;
   margin-right: 20px;
@@ -954,6 +954,6 @@ nav {
     font-weight: bolder;
   }
   .github-link {
-    display: none;
+     display: none;
   }
 }
