@@ -10,21 +10,55 @@
     
     
     <item>
-      <title>Coming Soon</title>
-      <link>https://wowoha.org/talks/0605/</link>
+      <title>An Ontology for Scientific Workflows</title>
+      <link>https://wowoha.org/talks/talk_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wowoha.org/talks/0605/</guid>
+      <guid>https://wowoha.org/talks/talk_7/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Coming soon</title>
-      <link>https://wowoha.org/talks/talk_0/</link>
+      <title>An Overview of Workflow Management Systems</title>
+      <link>https://wowoha.org/talks/talk_10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wowoha.org/talks/talk_0/</guid>
+      <guid>https://wowoha.org/talks/talk_10/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BEE: A Scientific Application Workflow Engine</title>
+      <link>https://wowoha.org/talks/talk_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_3/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>https://wowoha.org/talks/talk_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_2/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon</title>
+      <link>https://wowoha.org/talks/talk_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_5/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;</description>
@@ -32,10 +66,76 @@
     
     <item>
       <title>Coming soon</title>
+      <link>https://wowoha.org/talks/talk_11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_11/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Processing Workflows at Scattering User Facilities</title>
+      <link>https://wowoha.org/talks/talk_9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_9/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Goal Centric Patterns for Knowledge Intensive Processes</title>
+      <link>https://wowoha.org/talks/talk_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_8/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Implementing business and technical processes requires coordination between technical implementation teams, business representatives and stakeholders. There have been a number of approaches proposed and described that attempt to simplify the process by either providing technical implementation details or by applying a form of functional decomposition to derive the steps. While useful, these approaches fail to adequately convey the fundamentals of the processes they are describing. This paper describes a novel approach to achieve this goal through three key criteria: initiating event, the goal, and the desired outcome, resulting in a new method of describing processes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sina and the State of Simulation Data Management</title>
+      <link>https://wowoha.org/talks/talk_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_6/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Our team has built Sina to bring sub-second, many-million-run-scale querying to an environment that has traditionally spawned many user-authored one-off solutions. We’re working to fold database technologies (SQLite, MySQL, Cassandra) into this environment with minimal disruption to users by unifying different backends behind a single, simple Python API. But we’re looking forward to another goal as well: unifying the outputs of many scientific simulations under a single file schema. We’ll be presenting on Sina’s capabilities, some successes and challenges, the delights of performant large-scale querying for large-scale data, and what interested groups can do to help move their own environments towards a more HPC- and user-time-friendly future.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Role of Workflows in Credible High Consequence Computation Simulation</title>
+      <link>https://wowoha.org/talks/talk_0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_0/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The foundation of computational simulation credibility is an evidence package that encompasses requirements definition, assessment of code capabilities to model the desired physics, computational and SME judgment elements demonstrating why the results can be trusted for the intended use and communicating gaps. The Eclipse based Next Generation Workflow (NGW) has been developed to graphically author, communicate and reliably execute analysis as well as ensemble workflows over a heterogenous set of computing platforms. The Credibility Framework (CF) provides a platform to execute, collect and communicate credibility evidence integrates with NGW.  CF provides is configurable by non-programmers through simple Excel spreadsheets to enable tailoring the credibility process to meet the needs of the analysis provider organizations, customers and regulatory agencies.  An end-to-end use case is demonstrated through a realistic solid mechanics exemplar with ensemble studies supporting computational aspects of credibility such as solution verification with respect to various numerical factors as well as sensitivity analysis and uncertainty quantification.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Themis Ensemble Generation Tool</title>
       <link>https://wowoha.org/talks/talk_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wowoha.org/talks/talk_1/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Themis: a new ensemble generation capability and a path to Exascale class ensembles</title>
+      <link>https://wowoha.org/talks/talk_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_4/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Coming soon&lt;/p&gt;</description>
