@@ -10,7 +10,7 @@
     
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 00: The Role of Workflows in Credible High Consequence Computation Simulation </title>
       <link>https://wowoha.org/talks/talk_0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 01: The Themis Ensemble Generation Tool</title>
       <link>https://wowoha.org/talks/talk_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -30,27 +30,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
-      <link>https://wowoha.org/talks/talk_10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wowoha.org/talks/talk_10/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>{Title}</title>
-      <link>https://wowoha.org/talks/talk_11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wowoha.org/talks/talk_11/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-    
-    <item>
-      <title>{Title}</title>
+      <title>Talk 02: Pegasus workflow execution environments at OLCF using Kubernetes</title>
       <link>https://wowoha.org/talks/talk_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -60,7 +40,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 03: BEE: A Scientific Application Workflow Engine</title>
       <link>https://wowoha.org/talks/talk_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -70,7 +50,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 04:  TBA</title>
       <link>https://wowoha.org/talks/talk_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -80,7 +60,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 05: funcX: a federated function serving fabric for workflows</title>
       <link>https://wowoha.org/talks/talk_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -90,7 +70,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 06: Sina and the State of Simulation Data Management</title>
       <link>https://wowoha.org/talks/talk_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -100,7 +80,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 07: An Ontology for Scientific Workflows</title>
       <link>https://wowoha.org/talks/talk_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -110,7 +90,7 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 08: Goal Centric Patterns for Knowledge Intensive Processes</title>
       <link>https://wowoha.org/talks/talk_8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -120,11 +100,31 @@
     </item>
     
     <item>
-      <title>{Title}</title>
+      <title>Talk 09: Data Processing Workflows at Scattering User Facilities</title>
       <link>https://wowoha.org/talks/talk_9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wowoha.org/talks/talk_9/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Talk 10: An Overview of Workflow Management Systems</title>
+      <link>https://wowoha.org/talks/talk_10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_10/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Talk 11: Coming soon</title>
+      <link>https://wowoha.org/talks/talk_11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wowoha.org/talks/talk_11/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;</description>
     </item>
